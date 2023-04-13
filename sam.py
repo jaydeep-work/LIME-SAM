@@ -4,12 +4,14 @@ from segment_anything import sam_model_registry, SamAutomaticMaskGenerator, SamP
 import torch
 import numpy as np
 
-sam_checkpoint = "/home/jaydeep/dev/Reg/slideCV/SegmentAnything/checkpoint/sam_vit_b_01ec64.pth"
-model_type = "vit_b"
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-sam = sam_model_registry[model_type](checkpoint=sam_checkpoint)
-sam.to(device=device)
-mask_generator = SamAutomaticMaskGenerator(sam)
+mask_generator = None
+
+def initiate_sam(sam_checkpoint, model_type):
+    global mask_generator
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    sam = sam_model_registry[model_type](checkpoint=sam_checkpoint)
+    sam.to(device=device)
+    mask_generator = SamAutomaticMaskGenerator(sam)
 
 
 def get_common_mask(anns):
