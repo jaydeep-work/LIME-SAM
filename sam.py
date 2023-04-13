@@ -30,9 +30,6 @@ def SAM_segmentation_fn(image):
     image = image.astype('uint8')
     masks = mask_generator.generate(image)
     common_mask = get_common_mask(masks)
-    print(image.shape)
-    print(common_mask.shape)
-    print(np.unique(common_mask))
     return common_mask
 
 
