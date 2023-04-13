@@ -3,6 +3,6 @@ LIME-SAM aims to create an Explainable Artificial Intelligence (XAI) framework f
 
 
 # Examples
-Keras image classifier  <a href="https://colab.research.google.com/drive/1bj6B-O47NHpqsWovOrVZcpWNhIfO56sj?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg"/> target="_blank"
+Keras image classifier  <a href="https://colab.research.google.com/drive/1bj6B-O47NHpqsWovOrVZcpWNhIfO56sj?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
 </a>
