@@ -23,7 +23,7 @@ Keras image classifier  <a href="https://colab.research.google.com/drive/1bj6B-O
 - [ ] Create python package
 
 
-## Contact
+# Contact
 
 Jaydeep Dedaniya - [jaydeepdedaniya@gmail.com](jaydeepdedaniya@gmail.com)
 
