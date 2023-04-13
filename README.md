@@ -3,7 +3,7 @@ LIME-SAM aims to create an Explainable Artificial Intelligence (XAI) framework f
 
 
 # Results
-*all the images used in bellow figure can also be found in 'results' folder.
+*all the images used in below figure can also be found in 'results' folder.
 
 ![](results/LIME-SAM-explaination1.png?raw=true "Title")
 
