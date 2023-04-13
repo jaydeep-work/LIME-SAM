@@ -5,7 +5,7 @@ LIME-SAM aims to create an Explainable Artificial Intelligence (XAI) framework f
 # Results
 *all the images used in bellow figure can also be found in 'results' folder.
 
-![](results/LIME-SAM-explaination1.png?raw=true "Title")
+![](results/LIME-SAM-explaination.png?raw=true "Title")
 
 
 # Examples
@@ -25,15 +25,13 @@ Keras image classifier  <a href="https://colab.research.google.com/drive/1bj6B-O
 
 ## Contact
 
-Jaydeep Dedaniya - jaydeepdedaniya@gmail.com
-
-Project Link: [https://github.com/jaydeep-work/LIME-SAM](https://github.com/jaydeep-work/LIME-SAM)
+Jaydeep Dedaniya - [jaydeepdedaniya@gmail.com](jaydeepdedaniya@gmail.com)
 
 <div align="left">
-  <a href="https://github.com/ultralytics" style="text-decoration:none;">
+  <a href="https://github.com/jaydeep-work" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="5%" alt="" /></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
-  <a href="https://www.linkedin.com/company/ultralytics" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/jaydeep-dedaniya/" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="5%" alt="" /></a>
 </div>
 
