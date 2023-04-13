@@ -10,6 +10,13 @@ Keras image classifier  <a href="https://colab.research.google.com/drive/1bj6B-O
 </a>
 
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Keras example
+- [ ] Add Pytorch example
+- [ ] Try diverse pre-trained model to compare our results with LIME
+- [ ] Create python package
 
 
 # Acknowledgments
